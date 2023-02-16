@@ -3,3 +3,6 @@ Repositório da matéria de Inteligencia Artificial ministrada pelo Professor Ay
 ## Missionarios e Canibais
 Para rodar o problema do missionarios e canibais , execute o seguintes comandos no terminal do Linux :<br>
 >python3 main.py
+
+## Metro de Paris
+
