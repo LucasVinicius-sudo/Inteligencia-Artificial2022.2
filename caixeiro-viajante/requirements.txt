@@ -1,1 +1,1 @@
-h1#python3 hill-cimbling.py
+python3 hill-cimbling.py
